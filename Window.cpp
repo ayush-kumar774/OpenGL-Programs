@@ -4,6 +4,7 @@
 // (g++ Window.cpp -lglfw -lGLEW -lGL -lpthread -lXrandr -ldl -o Window)
 int main(void)
 {
+    
     GLFWwindow* window;
 
     /* Initialize the library */
