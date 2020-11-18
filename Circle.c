@@ -39,7 +39,6 @@ int main (int argc, char** argv)
 	glutInitWindowPosition(0, 0);
 	glutCreateWindow("Circle Drawing");
 	myInit();
-	
 	glutDisplayFunc(display);
 	glutMainLoop();
 }
