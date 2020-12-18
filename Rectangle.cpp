@@ -1,7 +1,7 @@
-#include<GL/glew.h>
+#include <GL/glew.h>
 #include <GL/freeglut.h>
 #include <GL/gl.h>
-#include<GLFW/glfw3.h>
+#include <GLFW/glfw3.h>
 
 // g++ Rectangle.cpp -lglut -lGL -lGLEW -lGLU -o Rectangle
 
